@@ -37,7 +37,8 @@ export class AppComponent implements OnInit {
   }
 
   aaa
-aaaaaaaaaaa;
+  aaaaaaaaaaa
+  wwwwwww
   ngOnInit() {
     this.onWindowScroll(event);
   }
